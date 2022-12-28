@@ -3,6 +3,8 @@
   "dependencies": {
     "node-addon-api": "^1.1.0"
   },
+  "repository": "github:mattpolzin/node-libpq-bare",
+  "homepage": "https://github.com/mattpolzin/node-libpq-bare/blob/main/README.md",
   "gypfile": true,
   "name": "@mattpolzin/libpq-bare",
   "version": "0.0.1",
