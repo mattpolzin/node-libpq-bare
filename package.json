@@ -1,0 +1,12 @@
+{
+  "main": "lib/binding.js",
+  "dependencies": {
+    "node-addon-api": "^1.1.0"
+  },
+  "gypfile": true,
+  "name": "@mattpolzin/libpq-bare",
+  "version": "0.0.1",
+  "description": "The barest of bare libpq wrappers.",
+  "author": "Mathew Polzin",
+  "license": "MIT"
+}
